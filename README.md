@@ -1,5 +1,37 @@
-## Hi there 👋
+## Hello World!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qquuasar)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="left" alt="Coding" width="400" src="123.gif">
+
+About Me
+
+Infrastructure technology enthusiast with a passion for automation and cloud solutions. Focused on developing expertise in distributed systems and modern DevOps practices.
+Technical Skills
+Core Competencies
+
+    Linux system administration (intermediate level)
+
+    Network fundamentals (routing, firewalls, basic Cisco knowledge)
+
+    Scripting in Python/Bash
+
+    Containerization (Docker, basic Kubernetes)
+
+    Configuration management (Ansible)
+
+Additional Skills
+
+    Monitoring and alerting (learning Prometheus/Grafana)
+
+    Infrastructure as Code principles
+
+Current Focus
+
+    Advancing Kubernetes and cloud technology knowledge
+
+    Studying advanced networking concepts and protocols
+
+    Learning more Ansible technologies
+
+    Searching for internship and practice experience!

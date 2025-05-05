@@ -4,34 +4,34 @@
 
   <img align="left" alt="Coding" width="400" src="123.gif">
 
-About Me
+## About me
 
-Infrastructure technology enthusiast with a passion for automation and cloud solutions. Focused on developing expertise in distributed systems and modern DevOps practices.
-Technical Skills
-Core Competencies
+*Infrastructure technology enthusiast with a passion for automation and cloud solutions. Focused on developing expertise in distributed systems and modern DevOps practices.*
+## Tech and stack skills
+### Core Competencies
 
-    Linux system administration (intermediate level)
+    - Linux system administration (intermediate level)
 
-    Network fundamentals (routing, firewalls, basic Cisco knowledge)
+    - Network fundamentals (routing, firewalls, basic Cisco knowledge)
 
-    Scripting in Python/Bash
+    - Scripting in Python/Bash
 
-    Containerization (Docker, basic Kubernetes)
+    - Containerization (Docker, basic Kubernetes)
 
-    Configuration management (Ansible)
+    - Configuration management (Ansible)
 
-Additional Skills
+### Additional Skills
 
-    Monitoring and alerting (learning Prometheus/Grafana)
+    - Monitoring and alerting (learning Prometheus/Grafana)
 
-    Infrastructure as Code principles
+    - Infrastructure as Code principles
 
-Current Focus
+### Current Focus
 
-    Advancing Kubernetes and cloud technology knowledge
+    - Advancing Kubernetes and cloud technology knowledge
 
-    Studying advanced networking concepts and protocols
+    - Studying advanced networking concepts and protocols
 
-    Learning more Ansible technologies
+    - Learning more Ansible technologies
 
-    Searching for internship and practice experience!
+    - Searching for internship and practice experience!

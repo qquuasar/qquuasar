@@ -1,7 +1,3 @@
-## Hello World!
-
-// [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qquuasar)](https://github.com/anuraghazra/github-readme-stats)
-
   <img align="left" alt="Coding"  src="123.gif">
 
 ## About me

@@ -1,6 +1,6 @@
   <img align="left" alt="Coding"  src="123.gif">
 
-## 
+# still in development ~ 
 ## About me
 
 *Infrastructure technology enthusiast with a passion for automation and cloud solutions. Focused on developing expertise in distributed systems and modern DevOps practices.*

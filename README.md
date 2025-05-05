@@ -4,9 +4,8 @@
 
 *Infrastructure technology enthusiast with a passion for automation and cloud solutions. Focused on developing expertise in distributed systems and modern DevOps practices.*
 ## Tech and stack skills
-### Core Competencies
-
-    - Linux system administration (intermediate level)
+### Core 
+  - Linux system administration (intermediate level)
 
     - Network fundamentals (routing, firewalls, basic Cisco knowledge)
 
